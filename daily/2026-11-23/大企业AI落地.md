@@ -180,3 +180,4 @@
 ---
 
 资料库：已上传 2026-11-23_大企业AI落地.md（ID：DZrAduwHvZOlt3niJbgsXh）
+GitHub：已推送 daily/2026-11-23/大企业AI落地.md
