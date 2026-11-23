@@ -101,3 +101,4 @@ AWS 在 Accelerate 大会上宣布把 Quick AI 助手直接接入 Seller Central
 ---
 
 资料库：已上传 2026-11-23_AI电商小企业落地.md（ID：9fRBs96OChhU8gqgUloHGu）
+GitHub：已推送 daily/2026-11-23/AI电商小企业落地.md
