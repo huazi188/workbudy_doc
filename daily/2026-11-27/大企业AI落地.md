@@ -152,3 +152,5 @@
 ---
 
 资料库：已上传 2026-11-27_大企业AI落地.md（ID：ivqbn3pIWFeUfPdoxUU4SX）
+GitHub：已推送 daily/2026-11-27/大企业AI落地.md
+共享通道：已推送 2026-11-27_大企业AI落地.md
